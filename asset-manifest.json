@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TP-React/static/css/main.28ceb9ee.css",
-    "main.js": "/TP-React/static/js/main.17746323.js",
+    "main.js": "/TP-React/static/js/main.69cd024f.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/TP-React/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/TP-React/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/TP-React/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
@@ -9,10 +9,10 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/TP-React/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/TP-React/index.html",
     "main.28ceb9ee.css.map": "/TP-React/static/css/main.28ceb9ee.css.map",
-    "main.17746323.js.map": "/TP-React/static/js/main.17746323.js.map"
+    "main.69cd024f.js.map": "/TP-React/static/js/main.69cd024f.js.map"
   },
   "entrypoints": [
     "static/css/main.28ceb9ee.css",
-    "static/js/main.17746323.js"
+    "static/js/main.69cd024f.js"
   ]
 }
